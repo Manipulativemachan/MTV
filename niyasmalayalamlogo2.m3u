@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/asianet-news-logo-720D34C403-seeklogo.com.png" group-title="STC News Malayalam", Asianet news
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Mathrubhumi_News.jpg/revision/latest/scale-to-width-down/220?cb=20181211094022" group-title="STC News Malayalam", mathrubhumi
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwXrBBZnIh2ER4lal6WbAHw/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Mathrubhumi_News.jpg/revision/latest/scale-to-width-down/220?cb=20181211094022" group-title="STC News Malayalam", Mathrubhumi
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667517032/ei/CPZjY7DwBc6P1gLvkq6QCA/ip/92.205.10.243/id/YGEgelAiUf0.7/source/yt_live_broadcast/requiressl/yes/tx/24394549/txs/24394546%2C24394547%2C24394548%2C24394549%2C24394550%2C24394551%2C24394552/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgTkNFNPugLhz4rs60UN0aUyWBiemXzCVUHAipzE_o4HACIFJSAqrLaGJe5a0CSvttOQ1vaxT5WULl3WqB_mDUqr6V/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/6b/6bbaa853bc43fd663a9d81c35de0ddb1.png" group-title="STC News Malayalam", Manorama News
 https://mmtvlive1.akamaized.net/v1/manifest/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign1/0d82c16b-205a-43cc-8cb6-e747cd913ff2/2.m3u8
@@ -14,17 +14,17 @@ https://mmtvlive1.akamaized.net/v1/manifest/673630b269b766886555eebfddd4f27f3de3
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667007434/ei/ai9cY73dB5OCgQfH5YHIBg/ip/92.205.10.243/id/woifegScgeA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIVlpTc_xUv038eHvGw4zR_M9S-stOWSgp0SBd_g84GoCIDTZTecmZ2mO9CnWQ2Dxyy-rmFtJTXwJ7j8DoZS7wQpo/file/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tvradiotuner.com/tv/wp-content/uploads/Janam-TV-News-Malayalam.jpg" group-title="STC News Malayalam", Janam TV
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live_720p/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" group-title="STC News Malayalam", News18 malayalam
 https://netliveworld.xyz/fuck_you_mhdtvworld_mother_fucker.php?c=News_18_Kerala&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvradiotuner.com/tv/wp-content/uploads/Janam-TV-News-Malayalam.jpg" group-title="STC News Malayalam", Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Twenty_Four_News.jpeg/revision/latest?cb=20191228092818" group-title="STC News Malayalam", 24News
 https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/7cb9aad9-083a-4b98-bd91-106965270181/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv5zlSbChncxQDMJsqMxbKE7cqvh__jfl8rRfGDNWI&s" group-title="STC News Malayalam", MediaOne
-https://tv.googledrivelinks.com/live.php?c=Media_One_TV&q=600&e=.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667517101/ei/TfZjY7foKJPQ1wLzgqGQCg/ip/92.205.10.243/id/x9qWT3Cr1OY.2/source/yt_live_broadcast/requiressl/yes/tx/24287372/txs/24287370%2C24287371%2C24287372/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMz7GVaYNRJQ12fzg_qD-kwOkg65LErZZgm-0Fm1AqlVAiEA4yqb7ryyptREIyRyhuznv4ilhBDhAO4GXFRqE8vKAWs%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Zee_Malayalam_News_Profile_Picture.png/revision/latest/scale-to-width-down/250?cb=20220124042522" group-title="STC News Malayalam", ZeeNews malayalam
 https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
@@ -53,14 +53,8 @@ https://dr1zhpsuem5f4.cloudfront.net/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/asianet-plus-black.png" group-title="STC Malayalam", Asianet Plus
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b049411dcbbdaac1a109d7d5295e25af21f208605631c68dcf/index.m3u8?token=94787e799123271708e9391d4b542412571bc8da-aedd6601a5fbe60dd108a2a97f78c2c6-1663403910-1663382310&remote=172.104.238.29
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/c4qNcpYHVBsmJUbkeN3giFS920IGzyhNTh2eBiZUJch6b380miE9BUVRg0R6dxynhw" group-title="STC Malayalam", Flowers TV
-https://netliveworld.xyz/fuck_you_mhdtvworld_mother_fucker.php?c=Flower_TV&q=600&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/c4qNcpYHVBsmJUbkeN3giFS920IGzyhNTh2eBiZUJch6b380miE9BUVRg0R6dxynhw" group-title="STC Malayalam", Flowers 2
 https://tv.googledrivelinks.com/live.php?c=Flower_TV&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/358.jpg" group-title="STC Malayalam", Mazhavil HD
-https://netliveworld.xyz/fuck_you_mhdtvworld_mother_fucker.php?c=Mazavali_Manorama_HD&q=600&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/358.jpg" group-title="STC Malayalam", Mazhavil HD 2
 https://tv.googledrivelinks.com/live.php?c=Mazavali_Manorama_HD&q=600&e=.m3u8
@@ -73,34 +67,14 @@ https://netliveworld.xyz/fuck_you_mhdtvworld_mother_fucker.php?c=DD_Malayalam&q=
 
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="STC Malayalam", Raj Music
-https://netliveworld.xyz/fuck_you_mhdtvworld_mother_fucker.php?c=Raj_Music_Malayalam&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="STC Malayalam", Raj Music
 https://tv.googledrivelinks.com/live.php?c=Raj_Music_Malayalam&q=1200&e=.m3u8
  
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Kerala_Vision.jpeg/revision/latest/scale-to-width-down/240?cb=20191228094530" group-title="STC Malayalam", KeralaVision
-
-http://103.199.160.79:8080/hls/kvsatelite.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Jeevan_TV.jpeg/revision/latest?cb=20191228091649" group-title="STC Malayalam", JeevanTV
-
 https://netliveworld.xyz/fuck_you_mhdtvworld_mother_fucker.php?c=Jeevan_TV&q=600&e=.m3u8
-
  
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDPpspH.png" group-title="STC Malayalam", Adipoli Tv
 https://live.hungama.com/linear/adipoli/playlist_playlist_1080p.m3u8
- 
-
- 
-
-#EXTINF:-1 tvg-id="RajNewsMalayalam.in" tvg-logo="https://i.imgur.com/RIkEebH.png" group-title="STC News Malayalam",Raj News Malayalam
-
-https://netliveworld.xyz/fuck_you_mhdtvworld_mother_fucker.php?c=Raj_News_Malayalam&q=600&e=.m3u8
-
-
  
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ltdtvL3.png" group-title="STC Malayalam",NCV
@@ -122,7 +96,6 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
  
 
 #EXTINF:-1 tvg-id="Swantham.in" tvg-logo="https://i.imgur.com/oodBB6x.png" group-title="STC Malayalam",Swantham
-
 http://131.153.22.8:1935/SWANTHAM/live/playlist.m3u8
 
  
@@ -135,12 +108,4 @@ https://netliveworld.xyz/fuck_you_mhdtvworld_mother_fucker.php?c=Kairali_WE_TV&q
 #EXTINF:-1 tvg-logo="https://5.imimg.com/data5/PL/BZ/IP/SELLER-82281649/television-broadcasting-500x500.jpg" group-title="STC Malayalam", KeralaBhumi
 http://103.153.92.157:11037/hls/kbh.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="STC Malayalam", Kappa Tv
-https://idvd.multitvsolution.com/idvo/kappatv_540p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://expressott.in/uploads/tv_image/one-tv.jpg" group-title="STC Malayalam", One TV
-http://rtmp.logicwebs.in:1935/live/onetv/chunklist_w1181350522.m3u8
 
